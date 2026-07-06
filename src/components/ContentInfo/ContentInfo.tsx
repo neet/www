@@ -2,7 +2,7 @@ export const ContentInfo = () => {
   return (
     <footer className="w-full py-8 text-center">
       <a
-        href="https://youtrust.jp/users/neet"
+        href="https://www.linkedin.com/in/ry%C5%8D-igarashi-740827167/"
         target="_blank"
         rel="noopener noreferrer"
         className="font-mono text-sm leading-relaxed text-blue-600 underline dark:text-blue-400"
@@ -11,7 +11,7 @@ export const ContentInfo = () => {
       </a>
 
       <p className="text-sm leading-relaxed text-zinc-400 dark:text-zinc-600">
-        Copyright © 2023 Ryō Igarashi. All rights reserved.
+        Copyright © 2026 Ryō Igarashi. All rights reserved.
       </p>
     </footer>
   );
