@@ -10,7 +10,7 @@ export const ContentInfo = () => {
         hire me?
       </a>
 
-      <p className="text-sm leading-relaxed text-zinc-400 dark:text-zinc-600">
+      <p className="text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">
         Copyright © 2026 Ryō Igarashi. All rights reserved.
       </p>
     </footer>
